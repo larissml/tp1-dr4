@@ -6,6 +6,8 @@ import Ex04 from "./pages/ex04";
 import Ex05 from "./pages/ex05";
 import Ex06 from "./pages/ex06";
 import Ex07 from "./pages/ex07";
+import Ex08 from "./pages/ex08";
+import Ex09 from "./pages/ex09";
 export default function App() {
   return <> {/*<Ex01 /> */}
   {/*<Ex02 /> */}
@@ -13,5 +15,7 @@ export default function App() {
   {/*<Ex04 /> */}
   {/*<Ex05 /> */}
   {/*<Ex06 /> */}
-  <Ex07 /></>;
+  {/*<Ex07 /> */}
+  {/*<Ex08 /> */} 
+  <Ex09 /></>;
 }
